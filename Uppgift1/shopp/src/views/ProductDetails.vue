@@ -86,7 +86,7 @@
             <!--/.Accordion wrapper-->
 
             <!-- Add to Cart -->
-          <!--    <section class="color">
+              <section class="color">
               <div class="mt-5">
 
                 <div class="row mt-3">
